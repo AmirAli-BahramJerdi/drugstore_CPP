@@ -1,0 +1,12 @@
+Hello , I'm Amirali Bahramjerdi
+
+	This project is about pharmecy management system written by C++.
+	Currently, this program is used in Razia Firouz Hospital located in Kerman province in Iran.
+	The GUI-program is made with the wxWidget library and is being developed now
+
+support me:
+
+	My GitHub: https://github.com/AmirAli-BahramJerdi
+	My linkdin : https://www.linkedin.com/in/amirali-bahramjerdi-a948312ba
+	Connect Me: amiralibahramjerdi@gmial.com
+	
